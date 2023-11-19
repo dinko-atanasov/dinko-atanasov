@@ -7,33 +7,21 @@ public class AboutMe {
     private String[] passions = {"Photography"};
     private String[] strengths = {"Problem Solving", "Attention to Detail", "Team Collaboration"};
 
-    private Technologies technologies;
+    private final Technologies technologies = new Technologies();
 
-    public AboutMe() {
-        this.technologies = new Technologies();
-    }
+    private class Technologies {
+        private final Tools tools = new Tools();
 
-    public static class Technologies {
-        private Tools tools;
+        private class Tools {
+            private String[] projectManagement = {"Jira", "IntelliJ IDEA"};
+            private String[] versionControl = {"GitHub"};
+            private String[] programmingLanguages = {"Java", "SQL"};
+            private final WebTesting webTesting = new WebTesting();
 
-        public Technologies() {
-            this.tools = new Tools();
-        }
-
-        public static class Tools {
-            public String[] projectManagement = {"Jira", "IntelliJ IDEA"};
-            public String[] versionControl = {"GitHub"};
-            public String[] programmingLanguages = {"Java", "SQL"};
-            public WebTesting webTesting;
-
-            public Tools() {
-                this.webTesting = new WebTesting();
-            }
-
-            public static class WebTesting {
-                public String[] tools = {"Selenium WebDriver", "JUnit", "TestNG",
-                                         "Postman", "REST Assured", "HTML", "CSS",
-                                         "JMeter"};
+            private class WebTesting {
+                private String[] tools = {"Selenium WebDriver", "JUnit", "TestNG",
+                                          "Postman", "REST Assured", "HTML", "CSS",
+                                          "JMeter"};
             }
         }
     }
