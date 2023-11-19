@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-```php
+```java
 public class AboutMe {
     private String[] code = {"Java", "HTML", "CSS", "SQL"};
     private String currentOccupation = "QA Engineer, open for job opportunities";
