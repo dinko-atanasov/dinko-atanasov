@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ```java
 public class AboutMe {
     private String[] code = {"Java", "HTML", "CSS", "SQL"};
