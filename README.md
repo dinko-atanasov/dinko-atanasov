@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=C00D2D&center=true&vCenter=true&multiline=true&random=false&width=700&height=70&lines=Hi%2C+my+name+is+Dinko;QA+Engineer+from+Bulgaria)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=500&color=FF1B1B&center=true&vCenter=true&multiline=true&random=false&width=900&height=130&lines=Hi%2C+my+name+is+Dinko;QA+engineer+from+Bulgaria)](https://git.io/typing-svg)
 
 ```java
 public class AboutMe {
