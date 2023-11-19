@@ -33,7 +33,9 @@ public class AboutMe {
             }
 
             public static class WebTesting {
-                public String[] tools = {"Selenium WebDriver", "JUnit", "TestNG", "Postman", "REST Assured", "HTML", "CSS", "JMeter"};
+                public String[] tools = {"Selenium WebDriver", "JUnit", "TestNG",
+                                         "Postman", "REST Assured", "HTML", "CSS",
+                                         "JMeter"};
             }
         }
     }
