@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C00D2D&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+my+name+is+Dinko!)](https://git.io/typing-svg)
+
 ```java
 public class AboutMe {
     private String[] code = {"Java", "HTML", "CSS", "SQL"};
