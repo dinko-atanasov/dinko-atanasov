@@ -1,16 +1,41 @@
 ### Hi there 👋
 
-<!--
-**dinko-atanasov/dinko-atanasov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+public class AboutMe {
+    private String[] code = {"Java", "HTML", "CSS", "SQL"};
+    private String currentOccupation = "QA Engineer, open for job opportunities";
+    private String challenge = "Expanding skills in Security Testing";
+    private String[] languages = {"Bulgarian - Native", "English - Advanced"};
+    private String[] passions = {"Photography"};
+    private String[] strengths = {"Problem Solving", "Attention to Detail", "Team Collaboration"};
 
-Here are some ideas to get you started:
+    private Technologies technologies;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    public AboutMe() {
+        this.technologies = new Technologies();
+    }
+
+    public static class Technologies {
+        private Tools tools;
+
+        public Technologies() {
+            this.tools = new Tools();
+        }
+
+        public static class Tools {
+            public String[] projectManagement = {"Jira", "IntelliJ IDEA"};
+            public String[] versionControl = {"GitHub"};
+            public String[] programmingLanguages = {"Java", "SQL"};
+            public WebTesting webTesting;
+
+            public Tools() {
+                this.webTesting = new WebTesting();
+            }
+
+            public static class WebTesting {
+                public String[] tools = {"Selenium WebDriver", "JUnit", "TestNG", "Postman", "REST Assured", "HTML", "CSS", "JMeter"};
+            }
+        }
+    }
+}
+
+
