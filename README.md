@@ -30,36 +30,6 @@ public class AboutMe {
 }
 ```
 
-## ⚡ GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/dinko-atanasov">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinko-atanasov&theme=radical&hide=glsl,python" />
-      </a>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=dinko-atanasov&&show_icons=true&theme=radical&line_height=27&v=5" alt="Dinko's GitHub Stats" />
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/dinko-atanasov/Telerik-Homeworks" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dinko-atanasov&repo=Telerik-Homeworks&theme=gruvbox" alt="Telerik-Homeworks" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Alpha-50-group-4-final-project/Group-4-common-repo" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alpha-50-group-4-final-project&repo=Group-4-common-repo&theme=gruvbox" alt="Group-4-common-repo" />
-      </a>
-    </td>
-  </tr>
-</table>
-
 
 
 
