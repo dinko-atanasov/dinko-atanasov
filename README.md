@@ -30,6 +30,7 @@ public class AboutMe {
 }
 ```
 
+## ⚡ GitHub Stats
 
 <table>
   <tr>
