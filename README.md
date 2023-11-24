@@ -31,8 +31,16 @@ public class AboutMe {
 ```
 
 
-<a href="https://github.com/dinko-atanasov">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinko-atanasov&theme=radical&hide=glsl,python" />
-</a>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/dinko-atanasov">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinko-atanasov&theme=radical&hide=glsl,python" />
+      </a>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=dinko-atanasov&&show_icons=true&theme=radical&line_height=27&v=5" alt="Dinko's GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
-<img src="https://github-readme-stats.vercel.app/api?username=dinko-atanasov&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ashwani's GitHub Stats" />
