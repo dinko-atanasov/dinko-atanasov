@@ -30,7 +30,9 @@ public class AboutMe {
 }
 ```
 
-
+```
+![Visitor Count](https : //profile-counter.glitch.me/{dinko-atanasov}/count.svg)
+```
 
 
 
