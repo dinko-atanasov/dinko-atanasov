@@ -53,10 +53,11 @@ public class AboutMe {
     </td>
     <td>
       <a href="https://github.com/Alpha-50-group-4-final-project/Group-4-common-repo" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dinko-atanasov&repo=Group-4-common-repo&theme=gruvbox" alt="Group-4-common-repo" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alpha-50-group-4-final-project&repo=Group-4-common-repo&theme=gruvbox" alt="Group-4-common-repo" />
       </a>
     </td>
   </tr>
 </table>
+
 
 
