@@ -30,7 +30,7 @@ public class AboutMe {
 }
 ```
 
-![Github Views](https://github-views.deno.dev/api/badge/dinko-atanasov?color=red&labelColor=red)
+![Github Views](https://github-views.deno.dev/api/badge/dinko-atanasov?color=red&labelColor=purple)
 
 
 
