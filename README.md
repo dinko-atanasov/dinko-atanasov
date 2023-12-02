@@ -1,5 +1,7 @@
+[//]: # (Dynamic Typing SVG Snippet)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2300&color=FF1B1B&center=true&vCenter=true&multiline=true&random=false&width=900&height=130&lines=Hi%2C+my+name+is+Dinko;QA+engineer+from+Bulgaria)](https://git.io/typing-svg)
 
+[//]: # (About Me Java Code Snippet)
 ```java
 public class AboutMe {
     private String[] code = {"Java", "HTML", "CSS", "SQL"};
@@ -29,10 +31,6 @@ public class AboutMe {
     }
 }
 ```
-
-![Github Views](https://github-views.deno.dev/api/badge/dinko-atanasov?color=red&labelColor=grey)
-
-![Github Views](https://github-views.deno.dev/api/badge/dinko-atanasov?color=ff1b1b&labelColor=3e4040)
 
 [//]: # (GitHub Views Badge Snippet)
 <p align="right">
