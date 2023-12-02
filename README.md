@@ -32,5 +32,7 @@ public class AboutMe {
 
 ![Github Views](https://github-views.deno.dev/api/badge/dinko-atanasov?color=red&labelColor=grey)
 
+![Github Views](https://github-views.deno.dev/api/badge/dinko-atanasov?color=ff1b1b&labelColor=grey)
+
 
 
