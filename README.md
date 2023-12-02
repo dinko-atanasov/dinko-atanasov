@@ -34,7 +34,7 @@ public class AboutMe {
 
 [//]: # (GitHub Views Badge Snippet)
 <p align="right">
-  <img src="https://github-views.deno.dev/api/badge/dinko-atanasov?color=ff2126&labelColor=2d333b" alt="Github Views">
+  <img src="https://github-views.deno.dev/api/badge/dinko-atanasov?color=ff1b1b&labelColor=2d333b" alt="Github Views">
 </p>
 
 
